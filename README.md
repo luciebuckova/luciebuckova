@@ -12,7 +12,6 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/luciebuckova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciebuckova" height="30" width="40" /></a>
-  <a href="https://fb.com/l.lucie.b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="l.lucie.b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
