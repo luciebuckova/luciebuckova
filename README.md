@@ -2,7 +2,7 @@
 
 <h3 align="left">A passionate junior frontend developer from Czechia 🇨🇿</h3>
 
-- 🔭 I’m working on [my portfolio website](https://github.com/luciebuckova/my-app)
+- 🔭 I’m working on [my portfolio website](https://github.com/luciebuckova/portfolio-ts)
 
 - 🌱 I’m currently learning **React 🤓**
 
